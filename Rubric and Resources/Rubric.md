@@ -22,12 +22,15 @@ Working with Your Group
 
 ## Completed Analysis Uploaded to GitHub (20 points)
     - Final data analysis contains ample and complete information in README file (10 points)
-    - Final repository is acceptable for professional quality presentation (10 points) 
+    - Final repository is acceptable for professional quality presentation (10 points)
+    - Bonus - Use of an API
 
 ## Visualizations (20 points)
     - 6–8 visualizations of data (at least two per question) (10 points)
     - Clear and accurate labeling of images (5 points)
     - Visualizations supported with ample and precise explanation (5 points)
+    - Must use MatPlotLib
+    - Must save your visualizations as PNG's to submit to the graders
     
 ## Analysis and Conclusion (20 points)
     - Write-up summarizes major findings and implications at a professional level (5 points)
@@ -50,3 +53,10 @@ Working with Your Group
     - Slides are clear and maintain audience interest (5 points)
 
 
+## From the Class Presentation - Requirements - Must be a 10 minute presentation
+    - Questions that you found interesting and what motivated you to answer them.
+    - Where and how you found the data that you used to answer the questions.
+    - The data exploration and cleanup process (accompanied by your Jupyter Notebook)
+    - The analysis process (accompanied by your Jupyter Notebook)
+    - Your conclusions, including a numerical summary and visualizations of te summary.
+    - The implications of your findings: what do your findings mean?
