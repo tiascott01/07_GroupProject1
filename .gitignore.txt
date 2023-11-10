@@ -1,1 +1,2 @@
-config.py
+# Ignore config file
+Haylee/config.py
