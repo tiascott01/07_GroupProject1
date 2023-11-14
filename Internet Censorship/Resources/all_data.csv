@@ -1,0 +1,176 @@
+,Flag,Country,Score,Torrents Restricted?,Torrents Banned or Shut Down?,Pornography Restricted?,Pornography Banned?,Political Media Restricted?,Political Media Heavily Censored?,Social Media Restricted?,Social Media Banned?,VPNs Restricted,VPNs Banned?,Messaging and VoIP App Restrictions,Population (2023),4.1.4) Level of web accessibility,4.2.1) Privacy regulations
+0,:af:,Afghanistan,6,Y,N,Y,Y,Y,Y,Y,N,N,N,N,"42,239,854",,
+1,:al:,Albania,2,Y,N,N,N,Y,N,N,N,N,N,N,"2,832,439",,
+2,:dz:,Algeria,5,Y,N,Y,N,Y,Y,Y,N,N,N,N,"45,606,480",0.0,2.0
+3,:ad:,Andorra,1,Y,N,N,N,N,N,N,N,N,N,N,"80,088",,
+4,:ao:,Angola,2,Y,N,N,N,Y,N,N,N,N,N,N,"36,684,202",2.0,2.0
+5,:ar:,Argentina,3,Y,Y,N,N,Y,N,N,N,N,N,N,"45,773,884",2.0,2.0
+6,:am:,Armenia,3,Y,N,Y,Y,N,N,N,N,N,N,N,"2,777,970",,
+7,:au:,Australia,3,Y,Y,Y,N,N,N,N,N,N,N,N,"26,439,111",2.0,2.0
+8,:at:,Austria,2,Y,Y,N,N,N,N,N,N,N,N,N,"8,958,960",3.0,2.0
+9,:az:,Azerbaijan,5,Y,N,Y,N,Y,Y,Y,N,N,N,N,"10,412,651",0.0,2.0
+10,:bh:,Bahrain,7,Y,N,Y,Y,Y,Y,Y,N,Y,N,N,"1,485,509",3.0,2.0
+11,:bd:,Bangladesh,7,Y,N,Y,Y,Y,Y,Y,N,N,N,Y,"172,954,319",0.0,2.0
+12,:by:,Belarus,8,Y,N,Y,Y,Y,Y,Y,N,Y,Y,N,"9,498,238",,
+13,:be:,Belgium,2,Y,Y,N,N,N,N,N,N,N,N,N,"11,686,140",3.0,2.0
+14,:bz:,Belize,2,Y,N,N,N,N,N,N,N,N,N,Y,"410,825",,
+15,:bj:,Benin,2,Y,N,N,N,Y,N,N,N,N,N,N,"13,712,828",3.0,2.0
+16,:bt:,Bhutan,3,Y,N,Y,N,Y,N,N,N,N,N,N,"787,424",,
+17,:bo:,Bolivia,2,Y,N,N,N,Y,N,N,N,N,N,N,"12,388,571",,
+18,:ba:,Bosnia and Herzegovina,1,Y,N,N,N,N,N,N,N,N,N,N,"3,210,847",,
+19,:bw:,Botswana,4,Y,N,Y,Y,Y,N,N,N,N,N,N,"2,675,352",3.0,2.0
+20,:br:,Brazil,3,Y,N,N,N,Y,N,N,N,N,N,Y,"216,422,446",0.0,2.0
+21,:bn:,Brunei,5,Y,N,Y,Y,Y,Y,N,N,N,N,N,"452,524",,
+22,:bg:,Bulgaria,2,Y,N,N,N,Y,N,N,N,N,N,N,"6,687,717",2.0,2.0
+23,:bf:,Burkina Faso,2,Y,N,N,N,N,N,Y,N,N,N,N,"23,251,485",3.0,2.0
+24,:bi:,Burundi,4,Y,N,N,N,Y,N,Y,N,N,N,Y,"13,238,559",2.0,0.0
+25,:kh:,Cambodia,6,Y,N,Y,Y,Y,Y,Y,N,N,N,N,"16,944,826",1.0,0.0
+26,:cm:,Cameroon,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"28,647,293",1.0,0.0
+27,:ca:,Canada,2,Y,Y,N,N,N,N,N,N,N,N,N,"38,781,291",2.0,2.0
+28,:cv:,Cape Verde,1,Y,N,N,N,N,N,N,N,N,N,N,"598,682",,
+29,:cf:,Central African Republic,3,Y,N,N,N,Y,Y,N,N,N,N,N,"5,742,315",,
+30,:td:,Chad,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"18,278,568",,
+31,:cl:,Chile,1,Y,N,N,N,N,N,N,N,N,N,N,"19,629,590",3.0,2.0
+32,:cn:,China,11,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,"1,425,671,352",1.0,2.0
+33,:co:,Colombia,2,Y,N,N,N,Y,N,N,N,N,N,N,"52,085,168",2.0,2.0
+34,:km:,Comoros,2,Y,N,N,N,Y,N,N,N,N,N,N,"852,075",,
+35,:cg:,Congo-Brazzaville,3,Y,N,N,N,Y,N,Y,N,N,N,N,"6,040,000",,
+36,:cr:,Costa Rica,1,Y,N,N,N,N,N,N,N,N,N,N,"5,212,173",3.0,2.0
+37,:ci:,Cote d'Ivoire,2,Y,N,N,N,Y,N,N,N,N,N,N,"28,873,034",,
+38,:hr:,Croatia,1,Y,N,N,N,N,N,N,N,N,N,N,"4,008,617",1.0,2.0
+39,:cu:,Cuba,7,Y,N,Y,N,Y,Y,Y,N,Y,N,Y,"11,194,449",0.0,0.0
+40,:cy:,Cyprus,1,Y,N,N,N,N,N,N,N,N,N,N,"1,260,138",,
+41,:cz:,Czech Republic,1,Y,N,N,N,N,N,N,N,N,N,N,"10,498,369",2.0,2.0
+42,:cd:,Democratic Republic of Congo,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"103,477,384",,
+43,:dk:,Denmark,2,Y,Y,N,N,N,N,N,N,N,N,N,"5,910,913",2.0,2.0
+44,:dj:,Djibouti,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"1,136,455",,
+45,:ec:,Ecuador,2,Y,N,N,N,Y,N,N,N,N,N,N,"18,190,484",3.0,0.0
+46,:eg:,Egypt,7,Y,N,Y,N,Y,Y,Y,N,Y,N,Y,"112,716,598",0.0,2.0
+47,:sv:,El Salvador,2,Y,N,N,N,Y,N,N,N,N,N,N,"6,364,943",2.0,1.0
+48,:gq:,Equatorial Guinea,7,Y,N,Y,Y,Y,Y,Y,N,N,N,Y,"1,714,671",,
+49,:er:,Eritrea,7,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,"3,748,901",,
+50,:ee:,Estonia,1,Y,N,N,N,N,N,N,N,N,N,N,"1,322,765",2.0,2.0
+51,:sz:,Eswatini,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"1,210,822",,
+52,:et:,Ethiopia,5,Y,N,Y,N,Y,Y,Y,N,N,N,N,"126,527,060",0.0,0.0
+53,:fj:,Fiji,3,Y,N,N,N,Y,N,Y,N,N,N,N,"936,375",,
+54,:fi:,Finland,2,Y,Y,N,N,N,N,N,N,N,N,N,"5,545,475",2.0,2.0
+55,:fr:,France,2,Y,Y,N,N,N,N,N,N,N,N,N,"64,756,584",2.0,2.0
+56,:ga:,Gabon,3,Y,N,N,N,Y,N,Y,N,N,N,N,"2,436,566",2.0,2.0
+57,:gm:,Gambia,2,Y,N,N,N,Y,N,N,N,N,N,N,"2,773,168",,
+58,:ge:,Georgia,2,Y,Y,N,N,N,N,N,N,N,N,N,"3,728,282",,
+59,:de:,Germany,2,Y,Y,N,N,N,N,N,N,N,N,N,"83,294,633",3.0,2.0
+60,:gh:,Ghana ,2,Y,N,N,N,Y,N,N,N,N,N,N,"34,358,593",,
+61,:gr:,Greece,3,Y,Y,N,N,Y,N,N,N,N,N,N,"10,341,277",3.0,2.0
+62,:gt:,Guatemala,2,Y,N,N,N,Y,N,N,N,N,N,N,"18,092,026",3.0,0.0
+63,:gn:,Guinea,3,Y,N,N,N,Y,N,Y,N,N,N,N,"14,190,612",3.0,2.0
+64,:gw:,Guinea-Bissau,2,Y,N,N,N,Y,N,N,N,N,N,N,"2,150,842",,
+65,:gy:,Guyana,3,Y,N,N,N,Y,N,N,N,N,N,Y,"813,834",,
+66,:hn:,Honduras,3,Y,N,N,N,Y,N,Y,N,N,N,N,"10,593,798",0.0,0.0
+67,:hk:,Hong Kong,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"7,491,609",0.0,2.0
+68,:hu:,Hungary,2,Y,N,N,N,Y,N,N,N,N,N,N,"10,156,239",0.0,2.0
+69,:is:,Iceland,2,Y,Y,N,N,N,N,N,N,N,N,N,"375,318",,
+70,:in:,India,7,Y,Y,Y,N,Y,N,Y,N,Y,N,Y,"1,428,627,663",3.0,2.0
+71,:id:,Indonesia,6,Y,Y,Y,Y,Y,N,Y,N,N,N,N,"277,534,122",0.0,2.0
+72,:ir:,Iran,9,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,"89,172,767",0.0,2.0
+73,:iq:,Iraq,5,Y,N,N,N,Y,N,Y,N,Y,Y,N,"45,504,560",,
+74,:ie:,Ireland,2,Y,Y,N,N,N,N,N,N,N,N,N,"5,056,935",0.0,2.0
+75,:il:,Israel,4,Y,Y,N,N,Y,N,Y,N,N,N,N,"9,174,520",2.0,2.0
+76,:it:,Italy,2,Y,Y,N,N,N,N,N,N,N,N,N,"58,870,762",2.0,2.0
+77,:jp:,Japan,3,Y,Y,Y,N,N,N,N,N,N,N,N,"123,294,513",4.0,2.0
+78,:jo:,Jordan,6,Y,N,N,N,Y,Y,Y,N,Y,N,Y,"11,337,052",2.0,0.0
+79,:kz:,Kazakhstan,7,Y,N,Y,N,Y,Y,Y,N,Y,N,Y,"19,606,633",1.0,2.0
+80,:ke:,Kenya,3,Y,N,N,N,Y,N,Y,N,N,N,N,"55,100,586",2.0,2.0
+81,,Kosovo,1,Y,N,N,N,N,N,N,N,N,N,N,"1,964,327",,
+82,:kw:,Kuwait,6,Y,N,Y,Y,Y,N,Y,N,N,N,Y,"4,310,108",0.0,2.0
+83,:kg:,Kyrgyzstan,3,Y,N,Y,N,Y,N,N,N,N,N,N,"6,735,347",,
+84,:la:,Laos,6,Y,N,Y,Y,Y,Y,Y,N,N,N,N,"7,633,779",1.0,2.0
+85,:lv:,Latvia,2,Y,Y,N,N,N,N,N,N,N,N,N,"1,830,211",1.0,2.0
+86,:lb:,Lebanon,4,Y,N,Y,N,Y,N,Y,N,N,N,N,"5,353,930",2.0,1.0
+87,:ls:,Lesotho,3,Y,N,N,N,Y,N,Y,N,N,N,N,"2,330,318",,
+88,:lr:,Liberia,1,Y,N,N,N,N,N,N,N,N,N,N,"5,418,377",2.0,0.0
+89,:ly:,Libya,6,Y,N,Y,N,Y,Y,Y,N,N,N,Y,"6,888,388",,
+90,:li:,Liechtenstein,1,Y,N,N,N,N,N,N,N,N,N,N,"39,584",,
+91,:lt:,Lithuania,1,Y,N,N,N,N,N,N,N,N,N,N,"2,718,352",3.0,2.0
+92,:lu:,Luxembourg,1,Y,N,N,N,N,N,N,N,N,N,N,"654,768",,
+93,:mg:,Madagascar,3,Y,N,N,N,Y,N,Y,N,N,N,N,"30,325,732",2.0,2.0
+94,:mw:,Malawi,1,Y,N,N,N,N,N,N,N,N,N,N,"20,931,751",1.0,2.0
+95,:my:,Malaysia,7,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,"34,308,525",2.0,2.0
+96,:mv:,Maldives,3,Y,N,Y,Y,N,N,N,N,N,N,N,"521,021",,
+97,:ml:,Mali,3,Y,N,N,N,Y,N,Y,N,N,N,N,"23,293,698",0.0,2.0
+98,:mt:,Malta,1,Y,N,N,N,N,N,N,N,N,N,N,"535,064",,
+99,:mr:,Mauritania,3,Y,N,N,N,Y,N,Y,N,N,N,N,"4,862,989",,
+100,:mu:,Mauritius,3,Y,N,N,N,Y,N,Y,N,N,N,N,"1,300,557",,
+101,:mx:,Mexico,4,Y,Y,N,N,Y,N,N,N,N,N,Y,"128,455,567",2.0,2.0
+102,:md:,Moldova,2,Y,N,N,N,Y,N,N,N,N,N,N,"3,435,931",,
+103,:mn:,Mongolia,1,Y,N,N,N,N,N,N,N,N,N,N,"3,447,157",1.0,0.0
+104,:me:,Montenegro,1,Y,N,N,N,N,N,N,N,N,N,N,"626,485",,
+105,:ma:,Morocco,4,Y,N,Y,N,Y,N,N,N,N,N,Y,"37,840,044",1.0,2.0
+106,:mz:,Mozambique,2,Y,N,N,N,Y,N,N,N,N,N,N,"33,897,354",1.0,2.0
+107,:mm:,Myanmar (Burma),9,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,"54,577,997",,
+108,:na:,Namibia,1,Y,N,N,N,N,N,N,N,N,N,N,"2,604,172",0.0,0.0
+109,:np:,Nepal,5,Y,N,Y,Y,Y,N,Y,N,N,N,N,"30,896,590",2.0,2.0
+110,:nl:,Netherlands,2,Y,Y,N,N,N,N,N,N,N,N,N,"17,618,299",3.0,2.0
+111,:nz:,New Zealand,1,Y,N,N,N,N,N,N,N,N,N,N,"5,228,100",3.0,2.0
+112,:ni:,Nicaragua,2,Y,N,N,N,Y,N,N,N,N,N,N,"7,046,310",0.0,2.0
+113,:ne:,Niger,3,Y,N,N,N,Y,N,Y,N,N,N,N,"27,202,843",0.0,2.0
+114,:ng:,Nigeria,3,Y,N,N,N,Y,N,Y,N,N,N,N,"223,804,632",2.0,2.0
+115,:kp:,North Korea,11,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,"26,160,821",,
+116,:no:,Norway,2,Y,Y,N,N,N,N,N,N,N,N,N,"5,474,360",,
+117,:om:,Oman,8,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,"4,644,384",2.0,2.0
+118,:pk:,Pakistan,8,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,"240,485,658",0.0,2.0
+119,:ps:,Palestine,5,Y,N,Y,N,Y,Y,Y,N,N,N,N,"5,416,141",,
+120,:pa:,Panama,2,Y,N,N,N,Y,N,N,N,N,N,N,"4,468,087",1.0,2.0
+121,:pg:,Papua New Guinea,4,Y,N,Y,N,Y,N,Y,N,N,N,N,"10,329,931",4.0,2.0
+122,:py:,Paraguay,2,Y,N,N,N,Y,N,N,N,N,N,N,"6,861,524",2.0,2.0
+123,:pe:,Peru,1,Y,N,N,N,N,N,N,N,N,N,N,"34,352,719",3.0,2.0
+124,:ph:,Philippines,5,Y,N,Y,N,Y,Y,Y,N,N,N,N,"117,337,368",1.0,2.0
+125,:pl:,Poland,2,Y,N,N,N,Y,N,N,N,N,N,N,"41,026,067",3.0,2.0
+126,:pt:,Portugal,2,Y,Y,N,N,N,N,N,N,N,N,N,"10,247,605",2.0,2.0
+127,:qa:,Qatar,8,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,"2,716,391",3.0,2.0
+128,:mk:,Republic of North Macedonia,1,Y,N,N,N,N,N,N,N,N,N,N,"2,085,679",,
+129,:ro:,Romania,3,Y,Y,N,N,Y,N,N,N,N,N,N,"19,892,812",2.0,2.0
+130,:ru:,Russia,7,Y,Y,Y,N,Y,Y,Y,N,Y,N,N,"144,444,359",1.0,2.0
+131,:rw:,Rwanda,4,Y,N,Y,N,Y,N,Y,N,N,N,N,"14,094,683",2.0,2.0
+132,:ws:,Samoa,2,Y,N,N,N,Y,N,N,N,N,N,N,"225,681",,
+133,:sa:,Saudi Arabia,7,Y,N,Y,Y,Y,Y,Y,N,Y,N,N,"36,947,025",2.0,2.0
+134,:sn:,Senegal,3,Y,N,N,N,Y,N,Y,N,N,N,N,"17,763,163",3.0,2.0
+135,:rs:,Serbia,2,Y,N,N,N,Y,N,N,N,N,N,N,"7,149,077",,
+136,:sc:,Seychelles,1,Y,N,N,N,N,N,N,N,N,N,N,"107,660",,
+137,:sl:,Sierra Leone,3,Y,N,N,N,N,N,Y,N,N,N,Y,"8,791,092",0.0,0.0
+138,:sg:,Singapore,5,Y,Y,Y,N,Y,Y,N,N,N,N,N,"6,014,723",2.0,2.0
+139,:sk:,Slovakia,1,Y,N,N,N,N,N,N,N,N,N,N,"5,795,199",0.0,2.0
+140,:si:,Slovenia,1,Y,N,N,N,N,N,N,N,N,N,N,"2,119,675",,
+141,:so:,Somalia,4,Y,N,N,N,Y,Y,Y,N,N,N,N,"18,143,378",,
+142,:za:,South Africa,3,Y,Y,Y,N,N,N,N,N,N,N,N,"60,414,495",3.0,2.0
+143,:kr:,South Korea,5,Y,Y,Y,Y,Y,N,N,N,N,N,N,"51,784,059",2.0,2.0
+144,:ss:,South Sudan,3,Y,N,N,N,Y,N,Y,N,N,N,N,"11,088,796",,
+145,:es:,Spain,4,Y,Y,N,N,Y,N,Y,N,N,N,N,"47,519,628",3.0,2.0
+146,:lk:,Sri Lanka,6,Y,Y,Y,N,Y,N,Y,N,Y,N,N,"21,893,579",2.0,0.0
+147,:sd:,Sudan,3,Y,N,N,N,Y,N,Y,N,N,N,N,"48,109,006",1.0,2.0
+148,:sr:,Suriname,1,Y,N,N,N,N,N,N,N,N,N,N,"623,236",,
+149,:se:,Sweden,2,Y,Y,N,N,N,N,N,N,N,N,N,"10,612,086",3.0,2.0
+150,:ch:,Switzerland,1,Y,N,N,N,N,N,N,N,N,N,N,"8,796,669",2.0,2.0
+151,:sy:,Syria,8,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,"23,227,014",,
+152,:tw:,Taiwan,2,Y,Y,N,N,N,N,N,N,N,N,N,"23,923,276",1.0,2.0
+153,:tj:,Tajikistan,5,Y,N,N,N,Y,Y,Y,N,Y,N,N,"10,143,543",,
+154,:tz:,Tanzania,5,Y,N,Y,Y,Y,N,Y,N,N,N,N,"67,438,106",1.0,2.0
+155,:th:,Thailand,8,Y,Y,Y,Y,Y,Y,Y,N,Y,N,N,"71,801,279",0.0,2.0
+156,:tl:,Timor-Leste,1,Y,N,N,N,N,N,N,N,N,N,N,"1,360,596",,
+157,:tg:,Togo,2,Y,N,N,N,Y,N,N,N,N,N,N,"9,053,799",,
+158,:to:,Tonga,2,Y,N,N,N,Y,N,N,N,N,N,N,"107,773",,
+159,:tt:,Trinidad and Tobago,1,Y,N,N,N,N,N,N,N,N,N,N,"1,534,937",,
+160,:tn:,Tunisia,3,Y,N,Y,N,N,N,N,N,N,N,Y,"12,458,223",3.0,2.0
+161,:tr:,Turkey,8,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,"85,816,199",3.0,2.0
+162,:tm:,Turkmenistan,9,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,"6,516,100",,
+163,:ug:,Uganda,6,Y,N,Y,Y,Y,N,Y,N,Y,N,N,"48,582,334",3.0,2.0
+164,:ua:,Ukraine,4,Y,N,Y,N,Y,N,Y,N,N,N,N,"36,744,634",1.0,2.0
+165,:ae:,United Arab Emirates,9,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,"9,516,871",,
+166,:gb:,United Kingdom,2,Y,Y,N,N,N,N,N,N,N,N,N,"67,736,802",2.0,2.0
+167,:us:,United States,2,Y,Y,N,N,N,N,N,N,N,N,N,"339,996,563",3.0,2.0
+168,:uy:,Uruguay,1,Y,N,N,N,N,N,N,N,N,N,N,"3,423,108",0.0,2.0
+169,:uz:,Uzbekistan,8,Y,N,Y,Y,Y,Y,Y,N,Y,N,Y,"35,163,944",2.0,2.0
+170,:ve:,Venezuela,7,Y,N,Y,N,Y,Y,Y,N,Y,N,Y,"28,838,499",0.0,0.0
+171,:vn:,Vietnam,6,Y,N,Y,Y,Y,Y,Y,N,N,N,N,"98,858,950",0.0,2.0
+172,:ye:,Yemen,7,Y,N,Y,Y,Y,Y,Y,N,N,N,Y,"34,449,825",,
+173,:zm:,Zambia,4,Y,N,Y,N,Y,N,Y,N,N,N,N,"20,569,737",1.0,2.0
+174,:zw:,Zimbabwe,4,Y,N,Y,N,Y,N,Y,N,N,N,N,"16,665,409",3.0,2.0
