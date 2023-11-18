@@ -43,7 +43,7 @@ Cleaning the data and calculating the rate of change of mobile and broadband ado
 ### Who is prevailing in broadband and mobile usage?
 > /Broadband v Mobile/Data Cleaning Aggregate Visuals - Final.ipynb
 
-Tia's additional info here
+After calculating the data from highest broadband usage, and comparing agains t
 
 ### What are the cost disparities  between Broadband and Mobile?
 > /Broadband v Mobile/Data Cleaning Aggregate Visuals - Final.ipynb
