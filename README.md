@@ -32,7 +32,7 @@ Population Under Poverty Line: The coefficient is -1.7181, showing a negative re
 P-values: The p-values for both independent variables are very low (almost 0), indicating that the relationships are statistically significant.
 Confidence Intervals: The 95% confidence intervals for the coefficients suggest that the true values of these coefficients are likely within these ranges.
 
-# Question 2 - What is the breakdown of Internet Usage?
+# Question 2 - What is the breakdown of Internet Usage by Access Type?
 ### Are the acceleration rates of mobile and broadband adoption correlated?
 > /Broadband v Mobile/Rates of Change Analysis.ipynb
 
