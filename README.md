@@ -28,7 +28,8 @@ We found that, unsurprisingly, there is an almost even split between male and fe
 
 Further analysis revealed that most of the internet users across the world are,
 
-Highly literate: ![Internet_Usage_Vs_Literacy_Level](https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a)=250x250)
+Highly literate: <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a" width="100" height="100">
+
  Well-educated:  
 Literate:				  In Various Levels of Socioeconomic Status:
  	    
