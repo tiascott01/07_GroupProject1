@@ -22,15 +22,18 @@ This project aims to delve into the multifaceted aspects of internet usage, leve
       * ReadMe - instructions and summary of the project. 
 
 # Question 1 - Who is using the internet?
-The R-squared value is 0.734, which indicates that about 73.4% of the variability in 'Internet Users' is explained by the model. This is a relatively high value, suggesting a good fit of the model to the data.
-The adjusted R-squared value is 0.729, very close to the R-squared, indicating that the independent variables are relevant and the model isn't overfitted with unnecessary predictors.
-F-statistic and Prob (F-statistic): The F-statistic is 161.3 with a very low probability (2.32e-34). This suggests that the model is statistically significant, meaning it's likely providing a better fit than a model with no independent variables.
-Coefficients:
-const (Intercept): The coefficient for the constant is 53.0533. This can be interpreted as the expected value of 'Internet Users' when all independent variables are 0.
-GNI Per Capita: The coefficient is 0.0008, indicating a positive relationship. For every unit increase in GNI Per Capita, Internet Users increase by 0.0008 units, assuming other variables remain constant.
-Population Under Poverty Line: The coefficient is -1.7181, showing a negative relationship. For every percentage point increase in the population under the poverty line, Internet Users decrease by about 1.7181 units, assuming other variables remain constant.
-P-values: The p-values for both independent variables are very low (almost 0), indicating that the relationships are statistically significant.
-Confidence Intervals: The 95% confidence intervals for the coefficients suggest that the true values of these coefficients are likely within these ranges.
+To set the stage for our project, we started by figuring out who is using the Internet, and what the demographics of those users are. We started out with a large data sheet, with data on internet usage across 180 countries around the world, that spanned from 2017 to 2021. We reduced it down to just data from 2020 and 2021, so that we had more recent data. For the data points, we were able to clean it into about 17 different factors that we looked at. We then took the average of the 2 years for each factor and built most of our charts and statistical analysis of that.
+We found that, unsurprisingly, there is an almost even split between male and female usage, with 47.4% of females using the internet, and 52.6% of males. This is more or less commensurate with the gender split of the world, which is last reported at 150 males per 100 girls. By displaying internet usage by education level between male and female users, one thing that was moderately surprising, is that less educated women tend to use the internet more than less educated men (see chart below).
+ 
+
+Further analysis revealed that most of the internet users across the world are,
+
+Highly literate:				  Well-educated:
+ 	 ![Internet_Usage_Vs_Literacy_Level](https://github.com/tiascott01/07_GroupProject1/assets/139186713/74f1d8f6-c993-44b0-986b-ab3bea9f2298)
+  
+Literate:				  In Various Levels of Socioeconomic Status:
+ 	    
+
 
 # Question 2 - What is the breakdown of Internet Usage by Access Type?
 ### Are the acceleration rates of mobile and broadband adoption correlated?
