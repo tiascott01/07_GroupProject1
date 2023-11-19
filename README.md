@@ -28,11 +28,22 @@ We found that, unsurprisingly, there is an almost even split between male and fe
 
 Further analysis revealed that most of the internet users across the world are,
 
-Highly literate: <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a" width="300" height="150">
+Highly literate: 
 
- Well-educated:  <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/bb4cc17f-1682-422c-9708-c20013405fce" width="300" height="150">
 
-Literate:		<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7ace105c-da62-4cdf-bf89-9430775391d4" width="300" height="150">
+<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a" width="300" height="150">
+
+Well-educated:  
+
+
+
+<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/bb4cc17f-1682-422c-9708-c20013405fce" width="300" height="150">
+
+Literate:		
+
+
+
+<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7ace105c-da62-4cdf-bf89-9430775391d4" width="300" height="150">
 
 In Various Levels of Socioeconomic Status:
 
