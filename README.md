@@ -36,6 +36,8 @@ Literate:		<img src="https://github.com/tiascott01/07_GroupProject1/assets/13918
 
 In Various Levels of Socioeconomic Status:
 
+
+
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/561e9721-0804-424a-a768-7f55ea7c2648" width="300" height="150">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/73429773-cae1-4fc9-b007-b6d53a81e694" width="300" height="150">
 
