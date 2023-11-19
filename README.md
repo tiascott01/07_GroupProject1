@@ -84,4 +84,5 @@ It was surprising to see that every country had at least one category restricted
 5) pycountry-convert function discussion - https://stackoverflow.com/questions/55910004/get-continent-name-from-country-using-pycountry
 6) choropleth charts in python documentation and examples - https://plotly.com/python/choropleth-maps/
 7) animating choropleth charts examples - https://mahshadn.medium.com/animated-choropleth-map-with-discrete-colors-using-python-and-plotly-styling-5e208e5b6bf8
-8) Chat GPT for general coding assistance
+8) Gender Ratio - https://ourworldindata.org/gender-ratio#gender-ratio-across-the-world
+9) Chat GPT for general coding assistance
