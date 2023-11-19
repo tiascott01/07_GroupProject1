@@ -32,9 +32,11 @@ Highly literate: <img src="https://github.com/tiascott01/07_GroupProject1/assets
 
  Well-educated:  <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/bb4cc17f-1682-422c-9708-c20013405fce" width="300" height="150">
 
-Literate:				  In Various Levels of Socioeconomic Status:
- 	    
+Literate:		<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7ace105c-da62-4cdf-bf89-9430775391d4" width="300" height="150">
 
+In Various Levels of Socioeconomic Status:
+<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/561e9721-0804-424a-a768-7f55ea7c2648" width="300" height="150">
+<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/73429773-cae1-4fc9-b007-b6d53a81e694" width="300" height="150">
 
 # Question 2 - What is the breakdown of Internet Usage by Access Type?
 ### Are the acceleration rates of mobile and broadband adoption correlated?
