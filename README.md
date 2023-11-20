@@ -1,4 +1,4 @@
-# 07_GroupProject1
+# Group Project 1 - Impact of Internet Usage
 Group Project Readme
 # Project Summary
 In the era of digital transformation, the internet has become an integral part of our daily lives, influencing how we communicate, work, learn, and entertain ourselves. The vast expanse of the digital landscape offers a rich tapestry of data, providing an opportunity to unravel the intricate patterns of internet usage across different regions, demographics, technology, and disparities of information.
@@ -7,7 +7,7 @@ This project aims to delve into the multifaceted aspects of internet usage, leve
 # GitHub File Navigation
   * Broadband v Mobile
       * Graphics - folder which contains the output of figures within the code.
-      * jupyter notebook which contains all code, figures, and a final summary. 
+      * Broadband_Mobile_Data - jupyter notebook which contains all code, figures, and a final summary. 
   * Internet Censorship
       * Graphics - folder which contains the output of figures within the code.
       * Resources - folder which contains resources needed for import into the code notebook. 
