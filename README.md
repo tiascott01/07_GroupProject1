@@ -31,21 +31,25 @@ Further analysis revealed that most of the internet users across the world are,
 
 Highly literate: 
 
-
+<p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a" width="300" height="200">
-
+</p>
 Well-educated:  
 
 
-
+<p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/bb4cc17f-1682-422c-9708-c20013405fce" width="300" height="200">
-
+</p>
 In Various Levels of Socioeconomic Status:
 
 
-
+<p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/561e9721-0804-424a-a768-7f55ea7c2648" width="300" height="200">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/73429773-cae1-4fc9-b007-b6d53a81e694" width="300" height="200">
+</p>
+
+
+
 
 # Question 2 - What differences are between broadband and mobile usage?
 Are the acceleration rates of mobile and broadband adoption correlated?
