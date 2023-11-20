@@ -1,9 +1,10 @@
 # Group Project 1 - Impact of Internet Usage
 Group Project Readme
+---
 # Project Summary
 In the era of digital transformation, the internet has become an integral part of our daily lives, influencing how we communicate, work, learn, and entertain ourselves. The vast expanse of the digital landscape offers a rich tapestry of data, providing an opportunity to unravel the intricate patterns of internet usage across different regions, demographics, technology, and disparities of information.
 This project aims to delve into the multifaceted aspects of internet usage, leveraging data analytics to gain insights into users of the internet, technological trends, and censorship of global connectivity. 
-
+---
 # GitHub File Navigation
   * Broadband v Mobile
       * Graphics - folder which contains the output of figures within the code.
@@ -21,16 +22,14 @@ This project aims to delve into the multifaceted aspects of internet usage, leve
       * .gitignore - file that dictates which files to upload to github. Ignores files with sensitive information or unnecessary files. 
       * Data Presentation PowerPoint - Presentation of the overall project. 
       * ReadMe - instructions and summary of the project. 
-
+---
 # Question 1 - Who is using the internet?
 To set the stage for our project, we started by figuring out who is using the Internet, and what the demographics of those users are. We started out with a large data sheet, with data on internet usage across 180 countries around the world, that spanned from 2017 to 2021. We reduced it down to just data from 2020 and 2021, so that we had more recent data. For the data points, we were able to clean it into about 17 different factors that we looked at. We then took the average of the 2 years for each factor and built most of our charts and statistical analysis of that.
 We found that, unsurprisingly, there is an almost even split between male and female usage, with 47.4% of females using the internet, and 52.6% of males. This is more or less commensurate with the gender split of the world, which is [last reported](https://ourworldindata.org/gender-ratio#gender-ratio-across-the-world) at 150 males per 100 girls. By displaying internet usage by education level between male and female users, one thing that was moderately surprising, is that less educated women tend to use the internet more than less educated men (see chart below).
- 
-
+---
 Further analysis revealed that most of the internet users across the world are,
 
 Highly literate: 
-
 <p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a" width="300" height="250">
 </p>
@@ -47,10 +46,7 @@ In Various Levels of Socioeconomic Status:
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/561e9721-0804-424a-a768-7f55ea7c2648" width="300" height="250">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/73429773-cae1-4fc9-b007-b6d53a81e694" width="300" height="250">
 </p>
-
-
-
-
+---
 # Question 2 - What differences are between broadband and mobile usage?
 Are the acceleration rates of mobile and broadband adoption correlated?
 
