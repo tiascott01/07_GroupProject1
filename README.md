@@ -75,9 +75,9 @@ It was surprising to see that every country had at least one category restricted
 Heatmap of Internet Censorship: 
 
 
-<body style="text-align: center;">
+<p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/blob/main/Internet%20Censorship/Graphics/heatmap%20of%20censorship.png"  width="500" height="300">
-</body>
+</p>
 
 # References and Resources
 1) Initial dataset for questions 1 and 2 - Internet Inclusivty Index: https://www.kaggle.com/datasets/kwamsahortor/internet-inclusivity-index-2017-2021/?select=Internet_Inclusivity_Index_+Data_table.csv
