@@ -1,9 +1,11 @@
 # Group Project 1 - Impact of Internet Usage
 Group Project Readme
+
 ---
 # Project Summary
 In the era of digital transformation, the internet has become an integral part of our daily lives, influencing how we communicate, work, learn, and entertain ourselves. The vast expanse of the digital landscape offers a rich tapestry of data, providing an opportunity to unravel the intricate patterns of internet usage across different regions, demographics, technology, and disparities of information.
 This project aims to delve into the multifaceted aspects of internet usage, leveraging data analytics to gain insights into users of the internet, technological trends, and censorship of global connectivity. 
+
 ---
 # GitHub File Navigation
   * Broadband v Mobile
@@ -21,12 +23,13 @@ This project aims to delve into the multifaceted aspects of internet usage, leve
   * Files
       * .gitignore - file that dictates which files to upload to github. Ignores files with sensitive information or unnecessary files. 
       * Data Presentation PowerPoint - Presentation of the overall project. 
-      * ReadMe - instructions and summary of the project. 
+      * ReadMe - instructions and summary of the project.
+        
 ---
 # Question 1 - Who is using the internet?
 To set the stage for our project, we started by figuring out who is using the Internet, and what the demographics of those users are. We started out with a large data sheet, with data on internet usage across 180 countries around the world, that spanned from 2017 to 2021. We reduced it down to just data from 2020 and 2021, so that we had more recent data. For the data points, we were able to clean it into about 17 different factors that we looked at. We then took the average of the 2 years for each factor and built most of our charts and statistical analysis of that.
 We found that, unsurprisingly, there is an almost even split between male and female usage, with 47.4% of females using the internet, and 52.6% of males. This is more or less commensurate with the gender split of the world, which is [last reported](https://ourworldindata.org/gender-ratio#gender-ratio-across-the-world) at 150 males per 100 girls. By displaying internet usage by education level between male and female users, one thing that was moderately surprising, is that less educated women tend to use the internet more than less educated men (see chart below).
----
+
 Further analysis revealed that most of the internet users across the world are,
 
 Highly literate: 
@@ -34,18 +37,15 @@ Highly literate:
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7e83b6f5-5e5a-4f66-91b5-36367c7e560a" width="300" height="250">
 </p>
 Well-educated:  
-
-
 <p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/bb4cc17f-1682-422c-9708-c20013405fce" width="300" height="250">
 </p>
 In Various Levels of Socioeconomic Status:
-
-
 <p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/561e9721-0804-424a-a768-7f55ea7c2648" width="300" height="250">
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/73429773-cae1-4fc9-b007-b6d53a81e694" width="300" height="250">
 </p>
+
 ---
 # Question 2 - What differences are between broadband and mobile usage?
 Are the acceleration rates of mobile and broadband adoption correlated?
@@ -61,23 +61,18 @@ It looks like these might be correlated, so we used a scatterplot to plot the ra
 <img src="https://github.com/tiascott01/07_GroupProject1/blob/main/Broadband%20v%20Mobile/Graphics/Rate%20of%20change%20Broadband%20vs%20Rate%20of%20Change%20Mobile.png" width="300" height="250">
 </p>
 From here, we investigated by region (continent) using visual choropleth maps in form some hypothesis before doing analysis. South America jumped out visually as potentially significant differences from the rest of the globe.  We built a function to calculate a t-test and output an analysis based on the resulting t-statistic and p-value, using user input of a continent. When testing South America vs the rest of the globe, we found that for mobile: Since the p-value is very small (<= 0.05), we can reject the null hypothesis and conclude that the mobile adoption rates for South America are significantly different than for the rest of the world. Since the t-statistic is negative, it indicates that the mean rate of change for mobile adoption in South America is lower than the mean for the rest of the world. This can also be answered for other regions using the code. 
-
-
-
-
+---
 Who is predominantly using broadband and mobile?
 
 To answer who is predominantly using broaband and mobile serives, we identified the countries with the highest broadband usage and the highest mobile usage. We then compared the countries with an API to grab their latitude and longitude, thus creating a heatmap based on percentage of penetration in both categories. As you can see China is the top country in both broadband and mobile penetration. This was a surprising find given that China has extremely heavy censorship but is likely due to the general population of users. Other countries such as the U.S., Russia, India, Brazil, and Japan, made both lists. The U.S. placement is not surprising as in the top three in both categories given that it is known for its large networks and robust services. Russia and Brazil, respectively, equally weighted in both categories. India is a surprising insight given that it has the second highest mobile penetration and last in broadband, given the amount of eCommerce and telecommerce. Between broadband and mobile, we can see that mobile penetration is higher, over doubled in all categories, visually. Thus leading us to an additional questions of why mobile penetration is double over broadband.  From our original imported dataset we further aggregated our data, (Broadband Cost (% GNI), Mobile Cost (Prepaid (% GNI)), Mobile Cost (Postpaid (% GNI)). We then averaged the cost of our two mobile data sources to create an average mobile cost for each country. Applying our top 10 list of mobile users, we compared the broadband cost to the mobile cost. Visually we can see that mobile cost among the top mobile users is significantly less than broadband costs. On average half the cost. This makes sense as high adoption of mobile use is most likely due to the staggering cost of broadband operation. In places like Indonesia and Nigeria it is likely impossible to operate broadband due to how many factors above the average mobile cost broadband is. 
 
-
+---
 # Question 3 - Who is censoring the internet?
 To answer who is censoring the internet, we found a study that looked at a few different categories, like social media or torrents, and whether they were restricted or banned in different countries. This was the base data set for our analysis. After cleaning the original data we added a few additional data sets (population and region) to look at censorship globally. Then we drilled down into internet censorship by population and region to determine who is censoring their internet the most and whether having a large population matters with the level of censorship. Overall, we found that Asia is the most censored region with North Korea and China having the heaviest censorship by banning all factors of internet assessed. Whereas, the Atlantic region is the least censored with Cape Verde and Iceland having the lowest censorship scores. When analyzing the data there seemed to be a relationship between population and censorship. In the bar chart titled Censorship Score by Population Range, you can see that as the population goes up so does the censorship score. Initially charting a scatter plot between population and censorship score it shows a weak correlation with an R-squared value of 0.1. However, since both India and China have such large populations (greater than 1 billion) it is probable that their influence is skewing the data. To determine this, a box and whisker plot was used to understand which country populations are outliers. Removing those countries from the data set and re-plotting the scatter plot the correlation drops further suggesting that the two large populations were creating what seemed to be a correlation when there actually is none.
 It was surprising to see that every country had at least one category restricted or censored and no country was completely free of internet regulations. 
 
-
+---
 Heatmap of Internet Censorship: 
-
-
 <p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/blob/main/Internet%20Censorship/Graphics/heatmap%20of%20censorship.png"  width="500" height="300">
 </p>
