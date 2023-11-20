@@ -55,7 +55,7 @@ Summary: While initially it looks like broadband is decelerating in adoption glo
 
 Cleaning the data and calculating the rate of change of mobile and broadband adoption, we averaged the values and plotted the values for each year. It looks like the average change in mobile and broadband adoption were linked until 2020, where they show opposite accelerations. 
 
-<img src="https://github.com/tiascott01/07_GroupProject1/blob/main/Broadband%20v%20Mobile/Graphics/Global%20Internet%20Access%20by%20Type.png" width="300" height="150">
+<img src="[https://github.com/tiascott01/07_GroupProject1/blob/main/Broadband%20v%20Mobile/Graphics/Global%20Internet%20Access%20by%20Type.png](https://github.com/tiascott01/07_GroupProject1/blob/main/Broadband%20v%20Mobile/Graphics/Global%20Internet%20Access%20by%20Type.png)" width="300" height="150">
 
 It looks like these might be correlated, so we used a scatterplot to plot the rate of change for broadband on the x-axis vs. the rate of change for mobile on the y-axis. With an R^2 value of 0.033, it is found these do note actually correlate, which was surprising. 
 
