@@ -39,12 +39,6 @@ Well-educated:
 
 <img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/bb4cc17f-1682-422c-9708-c20013405fce" width="300" height="150">
 
-Literate:		
-
-
-
-<img src="https://github.com/tiascott01/07_GroupProject1/assets/139186713/7ace105c-da62-4cdf-bf89-9430775391d4" width="300" height="150">
-
 In Various Levels of Socioeconomic Status:
 
 
