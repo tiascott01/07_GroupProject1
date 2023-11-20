@@ -53,13 +53,13 @@ Are the acceleration rates of mobile and broadband adoption correlated?
 Summary: While initially it looks like broadband is decelerating in adoption globally while mobile is accelerating, these changes over time are not actually correlated. However, investigating by region (continent), we find significant differences for certain parts of the world. 
 
 Cleaning the data and calculating the rate of change of mobile and broadband adoption, we averaged the values and plotted the values for each year. It looks like the average change in mobile and broadband adoption were linked until 2020, where they show opposite accelerations. 
-
+<p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/blob/main/Broadband%20v%20Mobile/Graphics/Global%20Internet%20Access%20by%20Type.png" width="300" height="200">
-
+</p>
 It looks like these might be correlated, so we used a scatterplot to plot the rate of change for broadband on the x-axis vs. the rate of change for mobile on the y-axis. With an R^2 value of 0.033, it is found these do note actually correlate, which was surprising. 
-
+<p align="center">
 <img src="https://github.com/tiascott01/07_GroupProject1/blob/main/Broadband%20v%20Mobile/Graphics/Rate%20of%20change%20Broadband%20vs%20Rate%20of%20Change%20Mobile.png" width="300" height="200">
-
+</p>
 From here, we investigated by region (continent) using visual choropleth maps in form some hypothesis before doing analysis. South America jumped out visually as potentially significant differences from the rest of the globe.  We built a function to calculate a t-test and output an analysis based on the resulting t-statistic and p-value, using user input of a continent. When testing South America vs the rest of the globe, we found that for mobile: Since the p-value is very small (<= 0.05), we can reject the null hypothesis and conclude that the mobile adoption rates for South America are significantly different than for the rest of the world. Since the t-statistic is negative, it indicates that the mean rate of change for mobile adoption in South America is lower than the mean for the rest of the world. This can also be answered for other regions using the code. 
 
 Who is predominantly using broadband and mobile?
