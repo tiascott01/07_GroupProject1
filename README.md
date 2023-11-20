@@ -6,6 +6,7 @@ This project aims to delve into the multifaceted aspects of internet usage, leve
 
 # GitHub File Navigation
   * Broadband v Mobile
+      * Graphics - folder which contains the output of figures within the code.
       * jupyter notebook which contains all code, figures, and a final summary. 
   * Internet Censorship
       * Graphics - folder which contains the output of figures within the code.
